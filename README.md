@@ -29,9 +29,9 @@ Author: Abhinav Jain
 
 9. init: used to create a new git repo
 
-    git init
-    git remote add origin {--link--}
-    git remote -v (to verify remote)
-    git branch (to check branch)
-    git branch -M main (to rename branch)
-    git push origin main
+    git init<br>
+    git remote add origin {--link--}<br>
+    git remote -v (to verify remote)<br>
+    git branch (to check branch)<br>
+    git branch -M main (to rename branch)<br>
+    git push origin main<br>
