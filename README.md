@@ -20,3 +20,8 @@ Author: Abhinav Jain
 
 6. commit: it is the record of change
     git commit -m "some message"
+
+7. After commit it will show on git status that we are one commit ahead on our local machine than the github code, currently on github we can't see these notes as well as index.html
+
+8. push: upload local repo content to remote repo
+    git push origin main
