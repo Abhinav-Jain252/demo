@@ -46,3 +46,12 @@ Author: Abhinav Jain
     git checkout {--branch name--} (to navigate)<br>
     git checkout -b {--new branch name} (to create new branch)<br>
     git branch -d {--branch name--} (to delete branch)<br>
+    git push origin {--branch name--}<br>
+
+11. Merging Code:
+    Way 1:
+        git diff {--branch name--} (to compare commits, branches, files and more)<br>
+        git merge {--branch name--} (to merge 2 branches)<br>
+
+    Way 2:<br>
+    Create a PR<br>
