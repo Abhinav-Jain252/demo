@@ -35,3 +35,8 @@ Author: Abhinav Jain
     git branch (to check branch)<br>
     git branch -M main (to rename branch)<br>
     git push origin main<br>
+    <br>
+    here can also do: git push -u origin main<br>
+    This is done to set the upstream when we want to run git push again and again no need to mention origin main further.<br>
+
+10. 
