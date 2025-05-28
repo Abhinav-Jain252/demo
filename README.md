@@ -39,8 +39,8 @@ Author: Abhinav Jain
     here can also do: git push -u origin main<br>
     This is done to set the upstream when we want to run git push again and again no need to mention origin main further.<br>
 
-10. Branch Commands:<br>
-<br>
+10. Branch Commands:
+
     git branch (to check branch)<br>
     git branch -M main (to rename branch)<br>
     git checkout {--branch name--} (to navigate)<br>
