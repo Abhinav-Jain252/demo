@@ -54,4 +54,12 @@ Author: Abhinav Jain
         git merge {--branch name--} (to merge 2 branches)<br>
 
     Way 2:<br>
-    Create a PR<br>
+    Create a PR(Pull Request)<br>
+
+12. Pull Request: It lets you tell others about changes you have pushed to a branch in a repository on GitHub. (When many people are working on the same project and everyone wants to merge their code with the main branch, they do it with the help of pull request). Their will be a senior developer who will be working on the main branch, they will first review our PR, they can comment on it. Then its their decesion whether they want to merge or not.
+
+12. After Pull Request, changes had been made on the remote (i.e. Github) but not on our local machines. for making that changes in the local machine as well:<br>
+<br>
+git pull origin main<br>
+<br>
+used to fetch and download content from a remote repo and immediately update the local repo to match that content
